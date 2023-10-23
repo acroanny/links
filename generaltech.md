@@ -1,4 +1,6 @@
 # links
+GenTech
+
 https://western-appeal-39b.notion.site/GenTech-Summary-Jul-12-2023-cfdb6e6ab6494aac82289b64251fd50d
 
 https://western-appeal-39b.notion.site/GenTech-May-10-2023-ede061233bcb45b0bd33e419d9514fa2
