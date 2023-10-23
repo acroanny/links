@@ -23,7 +23,11 @@ https://western-appeal-39b.notion.site/GenTech-Summary-Jul-12-2023-cfdb6e6ab6494
 
 https://western-appeal-39b.notion.site/GenTech-Summary-Aug-2-2023-53a7def5f84642e99e6a3774386baa31
 
+https://western-appeal-39b.notion.site/GenTech-Summary-Aug-9-2023-f6dcb60d6602418585649b5e187b643f
 
+https://western-appeal-39b.notion.site/GenTech-Summary-Aug-16-2023-49ef99ed6a894ac5ab3746be93486955
+
+https://western-appeal-39b.notion.site/GenTech-Summary-Aug-23-2023-a3b90ba596114d4c816309007e445fa5
 git
 https://western-appeal-39b.notion.site/Linux-Git-Consultation-Jul-1-2023-4a68bd67e4c9496396f59a0591fa4eec
 
