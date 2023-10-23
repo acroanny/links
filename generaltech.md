@@ -34,6 +34,8 @@ https://western-appeal-39b.notion.site/GenTech-Summary-Aug-23-2023-a3b90ba596114
 
 git
 https://western-appeal-39b.notion.site/Linux-Git-Consultation-Jul-1-2023-4a68bd67e4c9496396f59a0591fa4eec
+https://drive.google.com/drive/folders/1fbnaNq4Kv7bKWAL-8gTs2sypdl0zdWyL
+
 
 https://western-appeal-39b.notion.site/Linux-Consultation-Feb-11-2023-9444dd868feb44b98acdab4272632a1d
 команды
