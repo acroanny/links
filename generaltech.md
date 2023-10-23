@@ -34,3 +34,10 @@ git
 https://western-appeal-39b.notion.site/Linux-Git-Consultation-Jul-1-2023-4a68bd67e4c9496396f59a0591fa4eec
 
 https://western-appeal-39b.notion.site/Linux-Consultation-Feb-11-2023-9444dd868feb44b98acdab4272632a1d
+команды
+https://docs.google.com/document/d/1X-PTlY6nx9DKtybzrc9dwE3_2QqQUBHWJOHezayHYxk/edit?pli=1
+
+
+
+Linux:
+https://docs.google.com/document/d/1GiFh9yC6Avy4Lx2iuXaYYMWLgeYHJmJD/edit
